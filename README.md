@@ -1,4 +1,4 @@
-A Python library for selecting an item from a list of multi-field data in terminal.
+A Python library for selecting an item from a multi-field data list in terminal.
 
 # Introduction
 

@@ -2,6 +2,10 @@
 CHANGELOG
 =========
 
+0.2.1: 2018-04-26
+-----------------
+- Removed the setup.py in package dir, which was checked in by mistake.
+
 0.2.0: 2018-04-20
 -----------------
 - Initial official (beta) release.

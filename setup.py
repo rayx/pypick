@@ -22,11 +22,11 @@ with open('README.md', 'r') as f:
 
 setuptools.setup(
     name='pypick',
-    version='0.2.0',
+    version='0.2.1',
     author='Huan Xiong',
     author_email='huan.xiong@outlook.com',
-    description=('A module for selecting an item from a list of '
-                 'multi-field data in terminal'),
+    description=('A module for selecting an item from a multi-field '
+                 'data list in terminal'),
     packages=['pypick'],
     url='https://github.com/rayx/pypick',
     license='GPLv3+',

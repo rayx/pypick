@@ -165,6 +165,6 @@ from .pick import Pick, Group
 from .ui import set_theme, NoSpace
 
 __all__ = ['Pick', 'Group', 'NoSpace', 'set_theme']
-__version__ = '0.2.0'
+__version__ = '0.2.1'
 __license__ = 'GPLv3+'
 __author__ = 'Huan Xiong <huan.xiong@outlook.com>'
